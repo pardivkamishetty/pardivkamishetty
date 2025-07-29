@@ -86,7 +86,7 @@
 
 - 🧠 [LoggerMon](https://github.com/pardivkamishetty/log-management): Real-time log monitoring system with WebSockets, FastAPI, and RAG pipeline using Groq and ChromaDB.
 - ⚙️ [Code Optimization Web App](https://github.com/pardivkamishetty/codeOptimisationGenAI): Multilingual app for optimizing and explaining code using LLaMA 3.1 and Unsloth.
-- 🧬 [Brain Tumor Segmentation App](https://github.com/pardivkamishetty/Brain-Tumor-Segmentation): Deep learning model with CNN+UNET for medical image segmentation using Streamlit.
+- 🧬 [Brain Tumor Segmentation App](https://github.com/pardivkamishetty/braintumorsegmentation): Deep learning model with CNN+UNET for medical image segmentation using Streamlit.
 
 ---
 
