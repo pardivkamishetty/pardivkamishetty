@@ -98,12 +98,6 @@
 
 ---
 
-<details>
-<summary>📊 Click to view advanced metrics</summary>
-
-<img src="https://raw.githubusercontent.com/pardivkamishetty/pardivkamishetty/main/github-metrics.svg" />
-
-</details>
 
 
 ---
